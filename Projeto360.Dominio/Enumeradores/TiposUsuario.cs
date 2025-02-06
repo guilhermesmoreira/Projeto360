@@ -4,7 +4,8 @@ namespace Projeto360.Dominio.Enumeradores
 {
     Administrador = 0,
     Gestor = 1,
-    Desenvolvedor = 2    
+    Desenvolvedor = 2,
+    Usuario = 3    
 }
 }
 

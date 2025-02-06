@@ -15,3 +15,4 @@ C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto36
 C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Repositorio\obj\Debug\net8.0\Projeto360.Repositorio.csproj.AssemblyReference.cache
 C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Repositorio\obj\Debug\net8.0\Projeto3.3DC9F0D7.Up2Date
 C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Repositorio\obj\Debug\net8.0\Projeto360.Repositorio.genruntimeconfig.cache
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Repositorio\obj\Debug\net8.0\Projeto360.Repositorio.sourcelink.json

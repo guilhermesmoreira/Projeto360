@@ -97,3 +97,4 @@ C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto36
 C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Api\bin\Debug\net8.0\Projeto360.Api.staticwebassets.endpoints.json
 C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Api\obj\Debug\net8.0\staticwebassets\msbuild.Projeto360.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Api\obj\Debug\net8.0\Projeto360.Api.sourcelink.json

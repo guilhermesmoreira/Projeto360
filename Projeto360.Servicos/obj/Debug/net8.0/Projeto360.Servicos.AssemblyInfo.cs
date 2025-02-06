@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projeto360.Servicos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddc10a798ea60e891af9d87705a2c8755eef0f84")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projeto360.Servicos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projeto360.Servicos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
