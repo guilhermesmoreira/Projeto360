@@ -8,11 +8,14 @@ namespace Projeto360.Dominio.Entidades
         public string Nome { get; set; }
         public string Email { get; set; }
         public string Senha { get; set; }
-        public bool Ativo { get; set; }        
+        public bool Ativo { get; set; }
+        public TiposUsuario Tipo { get; set; }        
 
         public Usuario()
         {
             Ativo = true;
+
+            Tipo = TiposUsuario.Gestor;
             
         }
 
