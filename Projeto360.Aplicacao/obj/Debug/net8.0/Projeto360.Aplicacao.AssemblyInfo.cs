@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projeto360.Aplicacao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+220046b161a76b43758b5df4bf99a05ba2fc2049")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c459bafaaaf6c6219dc01260a47a8e7bd7fc3863")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projeto360.Aplicacao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projeto360.Aplicacao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
