@@ -1,0 +1,15 @@
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Servicos\bin\Debug\net8.0\Projeto360.Servicos.deps.json
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Servicos\bin\Debug\net8.0\Projeto360.Servicos.dll
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Servicos\bin\Debug\net8.0\Projeto360.Servicos.pdb
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Servicos\obj\Debug\net8.0\Projeto360.Servicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Servicos\obj\Debug\net8.0\Projeto360.Servicos.AssemblyInfoInputs.cache
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Servicos\obj\Debug\net8.0\Projeto360.Servicos.AssemblyInfo.cs
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Servicos\obj\Debug\net8.0\Projeto360.Servicos.csproj.CoreCompileInputs.cache
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Servicos\obj\Debug\net8.0\Projeto360.Servicos.dll
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Servicos\obj\Debug\net8.0\refint\Projeto360.Servicos.dll
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Servicos\obj\Debug\net8.0\Projeto360.Servicos.pdb
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Servicos\obj\Debug\net8.0\ref\Projeto360.Servicos.dll
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Servicos\bin\Debug\net8.0\Projeto360.Dominio.dll
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Servicos\bin\Debug\net8.0\Projeto360.Dominio.pdb
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Servicos\obj\Debug\net8.0\Projeto360.Servicos.csproj.AssemblyReference.cache
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Servicos\obj\Debug\net8.0\Projeto3.698C1807.Up2Date

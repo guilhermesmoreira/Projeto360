@@ -1,0 +1,14 @@
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Dominio\bin\Debug\net8.0\Projeto360.Dominio.deps.json
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Dominio\bin\Debug\net8.0\Projeto360.Dominio.dll
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Dominio\bin\Debug\net8.0\Projeto360.Dominio.pdb
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Dominio\obj\Debug\net8.0\Projeto360.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Dominio\obj\Debug\net8.0\Projeto360.Dominio.AssemblyInfoInputs.cache
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Dominio\obj\Debug\net8.0\Projeto360.Dominio.AssemblyInfo.cs
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Dominio\obj\Debug\net8.0\Projeto360.Dominio.csproj.CoreCompileInputs.cache
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Dominio\obj\Debug\net8.0\Projeto360.Dominio.dll
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Dominio\obj\Debug\net8.0\refint\Projeto360.Dominio.dll
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Dominio\obj\Debug\net8.0\Projeto360.Dominio.pdb
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Dominio\obj\Debug\net8.0\ref\Projeto360.Dominio.dll
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Dominio\bin\Debug\net8.0\Projeto360.Dominio.runtimeconfig.json
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Dominio\obj\Debug\net8.0\Projeto360.Dominio.csproj.AssemblyReference.cache
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Dominio\obj\Debug\net8.0\Projeto360.Dominio.genruntimeconfig.cache
