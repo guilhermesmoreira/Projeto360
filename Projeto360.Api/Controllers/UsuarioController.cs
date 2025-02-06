@@ -30,7 +30,8 @@ namespace Projeto360.Api
                 {
                     ID = usuarioDominio.ID,
                     Nome = usuarioDominio.Nome,
-                    Email = usuarioDominio.Email                    
+                    Email = usuarioDominio.Email,
+                    TipoUsuario = usuarioDominio.TipoUsuario
                 };
 
                 return Ok(usuarioResposta);
@@ -51,7 +52,8 @@ namespace Projeto360.Api
                 {
                     Nome = usuarioCriar.Nome,
                     Email = usuarioCriar.Email,
-                    Senha = usuarioCriar.Senha                    
+                    Senha = usuarioCriar.Senha,
+                    TipoUsuario = usuarioCriar.TipoUsuario
                 };
 
                 var usuarioID = await _usuarioAplicacao.CriarAsync(usuarioDominio);
@@ -76,7 +78,8 @@ namespace Projeto360.Api
                 {
                     ID = usuarioAtualizar.ID,
                     Nome = usuarioAtualizar.Nome,
-                    Email = usuarioAtualizar.Email
+                    Email = usuarioAtualizar.Email,
+                    TipoUsuario = usuarioAtualizar.TipoUsuario
                 };
 
                 await _usuarioAplicacao.AtualizarAsync(usuarioDominio);
@@ -155,7 +158,8 @@ namespace Projeto360.Api
                 {
                     ID = usuario.ID,
                     Nome = usuario.Nome,
-                    Email = usuario.Email                                        
+                    Email = usuario.Email,
+                    TipoUsuario = usuario.TipoUsuario                                      
                 }).ToList();
 
                 return Ok(usuarios);

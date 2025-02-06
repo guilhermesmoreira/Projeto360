@@ -17,3 +17,4 @@ C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto36
 C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Aplicacao\obj\Debug\net8.0\Projeto3.4D101380.Up2Date
 C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Aplicacao\bin\Debug\net8.0\Projeto360.Servicos.dll
 C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Aplicacao\bin\Debug\net8.0\Projeto360.Servicos.pdb
+C:\Alunos\guilhermemoreira\11_Arquitetura de Dados\Projetos\Projeto360\Projeto360.Aplicacao\obj\Debug\net8.0\Projeto360.Aplicacao.sourcelink.json
